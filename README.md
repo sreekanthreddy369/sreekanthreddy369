@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sreekanthreddy369
+- 👋 Hi, I’m Sreekanth Reddy
 - 👀 I’m interested in Software Development, specifically in JavaScript as my favorite language. Learning about different Single Page Applications and Reading a lot about the best practices for writing/maintaining cleaner code software projects
 - 🌱 I’m currently learning Cloud for Developers, I have basic understanding and some working experience with Cloud and i'm continuing to put more efforts to master Cloud for developers
 - 💞️ I’m looking to collaborate on Open Projects with Javascript Libraries
